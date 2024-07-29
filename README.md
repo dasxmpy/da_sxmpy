@@ -1,3 +1,6 @@
 # da_sxmpy
-Bem Vindo!
-Me chamo Vicky e sou estudante da *Alura*!
+### Bem Vindo!
+Me chamo Vicky!
+Estou estudando na Alura;
+Estou me desenvolvendo na linguagem JavaScript;
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos!
