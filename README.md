@@ -1,2 +1,3 @@
 # da_sxmpy
-;3
+Bem Vindo!
+Me chamo Vicky e sou estudante da *Alura*!
